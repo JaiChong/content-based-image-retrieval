@@ -1,2 +1,1 @@
-# H1
-Based on `sampleCodeJava.zip`.
+# A2
