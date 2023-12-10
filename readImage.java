@@ -4,10 +4,10 @@
  */
 
 import java.awt.image.BufferedImage;
-import java.lang.Object.*;
-import javax.swing.*;
+// import java.lang.Object.*;
+// import javax.swing.*;
 import java.io.*;
-import java.util.*;
+// import java.util.*;
 import javax.imageio.ImageIO;
 import java.awt.*;
 
