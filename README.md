@@ -6,4 +6,5 @@ This tool sorts a collection of images by filename, intensity, or color code.  I
 - Contributors:
   - [PranBhardwaj](https://github.com/PranBhardwaj) implemented the Content-Based Image Retrieval (CBIR) logic.
   - [JaiChong](https://github.com/JaiChong) implemented the GUI using Java AWT and Swing, and wrote the documentation.
+  - NOTE: This project was initially collaborated on without Github, so the commit history is not an accurate reflection of the work distribution (which was roughly equal).
 - [Documentation](https://drive.google.com/file/d/1B9C4b0eoTk_beehQaPjaQZNnWyMaYuLv/view)
